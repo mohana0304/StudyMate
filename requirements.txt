@@ -1,0 +1,8 @@
+streamlit==1.26.0
+pymupdf==1.22.0
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+numpy==1.26.2
+python-dotenv==1.0.0
+transformers==4.35.0        # optional: for local small LLM fallback (flan-t5)
+torch==2.2.0                # optional: required by transformers
