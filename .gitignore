@@ -7,3 +7,5 @@ __pycache__/
 .idea/
 .DS_Store
 mistral-7b/
+*.safetensors
+*.bin
